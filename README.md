@@ -104,6 +104,9 @@ In this assignment, you'll be building your portfolio layout using the Bootstrap
 
 - [Github Pages Guide](https://pages.github.com/)
 
+- [Text typing animation](https://youtu.be/m0o0QNpY9-0)
+- [navbar tutorial](https://youtu.be/MxW0dv5W7Ds)
+
   - Choose "Project Site" and "Start from Scratch" to get correct instructions.
 
 ## Grading Requirements
